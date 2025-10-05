@@ -65,7 +65,7 @@ https://youtu.be/fATVVQfFyU0?si=K3I6cHX9emOtjXj9
 
 ## 📁 File Structure
 
-Titanic.ipynb # Jupyter Notebook
-prediction.csv #prediction output
-kaggle_score.png #screenshot of the kaggle accuracy score
-README.md # Project documentation
+- Titanic.ipynb # Jupyter Notebook
+- prediction.csv #prediction output
+- kaggle_score.png #screenshot of the kaggle accuracy score
+- README.md # Project documentation
