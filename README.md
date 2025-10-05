@@ -1,4 +1,3 @@
-# Titanic-Machine-Learning-from-Disaster-Second-Attempt
 # Titanic Survival Prediction
 
 This project applies **supervised machine learning** to predict passenger survival from the Titanic disaster.  
@@ -23,6 +22,7 @@ The goal is to predict whether a passenger survived (`Survived` = 0 or 1) based 
 
 This project was completed by following **Titanic Survival Prediction in Python - Machine Learning Project** to understand data preprocessing, feature engineering, and model development.  
 All model training, tuning, and evaluation were performed independently to apply and deepen learning.
+
 https://youtu.be/fATVVQfFyU0?si=K3I6cHX9emOtjXj9
 
 ---
